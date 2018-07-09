@@ -1,0 +1,111 @@
+.bc-font-link {
+    color: #2a81cb;
+}
+
+.bc-font-active {
+    color: #f94717
+}
+
+.bc-font-title-1 {
+    color: #4d4d4d;
+    font-size: 16px;
+}
+
+.bc-font-title-2 {
+    color: #4d4d4d;
+    font-size: 12px;
+}
+
+.bc-font-title-3 {
+    color: #999999;
+    font-size: 16px;
+}
+
+.bc-font-title-4 {
+    color: #ffffff;
+    font-size: 16px;
+}
+.bc-font-title-5 {
+    color: #4d4d4d;
+    font-size: 20px;
+}
+.bc-font-subtitle-1 {
+    color: #2a81cb;
+    font-size: 12px;
+}
+
+.bc-font-subtitle-2 {
+    color: #999999;
+    font-size: 12px;
+}
+
+.bc-font-tag-1 {
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.bc-font-tag-2 {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+.bc-font-tag-3 {
+    color: #999999;
+    font-size: 14px;
+}
+
+.bc-font-fieldvalue-1 {
+    color: #4d4d4d;
+    font-size: 16px;
+}
+
+.bc-font-fieldvalue-2 {
+    color: #f94717;
+    font-size: 24px;
+}
+
+.bc-font-fieldvalue-3 {
+    color: #ffffff;
+    font-size: 48px;
+}
+
+.bc-font-fieldvalue-4 {
+    color: #ffffff;
+    font-size: 16px;
+}
+
+.bc-font-fieldvalue-5 {
+    color: #2a81cb;
+    font-size: 16px;
+}
+
+.bc-font-fieldvalue-6 {
+    color: #ffffff;
+    font-size: 36px;
+}
+
+.bc-font-fieldvalue-7 {
+    color: #4d4d4d;
+    font-size: 20px;
+}
+
+.bc-font-fieldname-6 {
+    color: #ffffff;
+    font-size: 20px;
+}
+
+.bc-font-fieldname-1, .bc-font-fieldname-2, .bc-font-fieldname-7 {
+    color: #999999;
+    font-size: 12px;
+}
+
+.bc-font-fieldname-3, .bc-font-fieldname-4 {
+    color: #9fcff5;
+    font-size: 12px;
+}
+.bc-font-size-8{
+    font-size: 16px;
+}
+.bc-font-size-12{
+    font-size: 24px;
+}

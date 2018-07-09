@@ -1,0 +1,53 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+#root, #root>div {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    font-size: 14px;
+    background-color: #f5f5f5;
+    color: #4d4d4d;
+    height: 100%;
+    width: 100%;
+}
+
+html:not([data-scale]) .am-list-body::before {
+    height: 0px;
+}
+
+.am-activity-indicator-spinner {
+    background-image: url('../../../imgs/icons/loading.png');
+    background-size: cover;
+}
+
+.am-modal.am-modal-transparent .am-modal-content .am-modal-body {
+    padding: 0px;
+}
+
+.am-modal.am-modal-transparent .am-modal-content {
+    padding: 0px;
+    border-radius: 0px;
+}
+
+.am-list-body {
+    background-color: inherit;
+}
+
+.am-picker-popup-item {
+    color: #2a81cb;
+    font-size: 16px;
+    height: auto;
+    padding: 10px 20px;
+}
+
+.am-modal.am-modal-transparent .am-modal-content {
+    border-radius: 5px
+}

@@ -1,0 +1,152 @@
+.bc-gap-withbottom {
+    margin-bottom: 50px
+}
+.bc-gap-withbottom-1{
+    margin-bottom: 40px
+}
+.bc-gap-1-h {
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.bc-gap-1-bottom {
+    margin-bottom: 2px
+}
+
+.bc-gap-3-bottom {
+    margin-bottom: 6px
+}
+
+.bc-gap-5-bottom {
+    margin-bottom: 10px
+}
+
+.bc-gap-10-bottom {
+    margin-bottom: 20px
+}
+
+.bc-gap-30-bottom {
+    margin-bottom: 60px
+}
+
+.bc-gap-50-top {
+    margin-top: 100px
+}
+.bc-gap-50-bottom {
+    margin-bottom: 100px
+}
+.bc-gap-15-bottom {
+    margin-bottom: 30px
+}
+.bc-gap-25-top {
+    margin-top: 50px
+}
+
+.bc-gap-3-right {
+    margin-right: 6px
+}
+.bc-gap-5-right {
+    margin-right: 10px
+}
+.bc-gap-6-right {
+    margin-right: 12px
+}
+.bc-gap-10-right {
+    margin-right: 20px
+}
+.bc-gap-1-left {
+    margin-left: 2px
+}
+
+.bc-gap-2-left {
+    margin-left: 4px
+}
+
+.bc-gap-2-right {
+    margin-right: 4px
+}
+.bc-gap-3-left{
+    margin-left: 6px
+}
+.bc-gap-2-h {
+    padding-left: 4px;
+    padding-right: 4px;
+}
+
+.bc-igap-20-top {
+    padding-top: 40.4px;
+}
+.bc-igap-1-v {
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+
+.bc-igap-1-bottom {
+    padding-bottom: 2px;
+}
+
+.bc-igap-2-v {
+    padding-top: 4px;
+    padding-bottom: 4px;
+}
+
+.bc-igap-3-v {
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.bc-igap-3-h {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.bc-igap-5-v {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.bc-igap-5 {
+    padding: 10px;
+}
+.bc-igap-5-bottom {
+    padding-bottom: 10px;
+}
+
+.bc-igap-8-v {
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.bc-igap-10-right {
+    padding-right: 20px;
+}
+
+.bc-igap-10-v {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.bc-igap-10-h {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.bc-igap-10 {
+    padding: 20px;
+}
+.bc-igap-15-v {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bc-igap-15 {
+    padding: 30px;
+}
+
+.bc-igap-20-h {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+.bc-igap-20-v {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}

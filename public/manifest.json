@@ -1,0 +1,15 @@
+{
+  "short_name": "银银智道",
+  "name": "交通银行同业财富管理平台",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "200x200",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
